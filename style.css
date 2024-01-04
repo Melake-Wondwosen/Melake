@@ -146,6 +146,13 @@ a:hover {
 .hamburger-icon span:first-child {
   transform: none;
 }
+.img1{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 300px;
+     height: 300px;
+}
 
 /* SECTIONS */
 
